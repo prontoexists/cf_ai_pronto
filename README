@@ -1,0 +1,10 @@
+Simple AI-powered chat application built with the official Cloudflare Agents Starter
+Features:
+LLM Integration – uses the AI SDK with OpenAI (default) or Cloudflare Workers AI (Llama 3.3).
+
+Agentic Workflows – built-in tool calling, coordination, and retries.
+
+Chat UI – a React frontend with streaming responses.
+
+Memory – maintains per-session chat history (can be extended with D1/Vectorize for persistent state).
+Important: dev.vars is not included due to Security involving API keys. A new key was created and stored securely using .dev.vars (local only) and Wrangler secrets (for Cloudflare).
