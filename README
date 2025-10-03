@@ -12,6 +12,9 @@ Important: dev.vars is not included due to Security involving API keys. A new ke
 
 Instructions: 
 
+My Live Link: https://new-agent.pranit-srivastava41.workers.dev
+
+For Local:
 Clone repo
 Create .dev.vars file
 Input api key (OPENAI_API_KEY=(Key goes here))
