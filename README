@@ -8,3 +8,11 @@ Chat UI – a React frontend with streaming responses.
 
 Memory – maintains per-session chat history (can be extended with D1/Vectorize for persistent state).
 Important: dev.vars is not included due to Security involving API keys. A new key was created and stored securely using .dev.vars (local only) and Wrangler secrets (for Cloudflare).
+
+
+Instructions: 
+
+Clone repo
+Create .dev.vars file
+Input api key (OPENAI_API_KEY=(Key goes here))
+Run locally or log into wrangler; input via wrangler secret; Link will be recieved.
